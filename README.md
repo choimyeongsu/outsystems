@@ -1,7 +1,6 @@
 프로젝트 기술 스택
 ----- 
 Outsystems
-![image](https://github.com/choimyeongsu/outsystems/assets/99162434/336412e3-8b9f-4f08-98e9-f0c77c4440c7)
 
 실행순서
 -----
