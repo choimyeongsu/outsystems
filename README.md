@@ -1,6 +1,7 @@
 프로젝트 기술 스택
 ----- 
 Outsystems
+![image](https://github.com/choimyeongsu/outsystems/assets/99162434/336412e3-8b9f-4f08-98e9-f0c77c4440c7)
 
 실행순서
 -----
@@ -53,71 +54,17 @@ Outsystems
 
 
 
-앱 실행화면
+키오스크 앱 실행영상 
 ----
-앱 접속했을때의 초기화면입니다. 
-여기서 매장식사 OR 포장을 선택할 수 있습니다. 
-![image](https://github.com/choimyeongsu/outsystems/assets/99162434/336412e3-8b9f-4f08-98e9-f0c77c4440c7)
-
-메인화면입니다.
-카테고리를 클릭하였을때 카테고리에 맞는 메뉴들이 보여집니다.
-![image](https://github.com/choimyeongsu/outsystems/assets/99162434/65016253-dd1d-4183-b359-e077b2039e3c)
-
-돈가스 카테고리를 클릭한 화면입니다. 
-![image](https://github.com/choimyeongsu/outsystems/assets/99162434/e2fbf804-24bc-4bac-9be3-b00d6e795218)
-
-음료 카테고리 클릭한 화면입니다. 
-![image](https://github.com/choimyeongsu/outsystems/assets/99162434/cd32286f-ea6f-431a-9fc9-1d27c9a897fc)
-
-메뉴를 클릭했을때의 화면입니다.
-세부옵션을 선택하는 팝업이 띄워집니다. 
-![image](https://github.com/choimyeongsu/outsystems/assets/99162434/b421ce35-f679-4d9e-850b-e38ec8134434)
-
-옵션을 선택할 수 있고 개수를 선택할 수 있습니다.
-![image](https://github.com/choimyeongsu/outsystems/assets/99162434/7e42f3ea-8057-406f-8ce2-479e3b01b56a)
-
-여러메뉴를 담아보겠습니다.
-![image](https://github.com/choimyeongsu/outsystems/assets/99162434/68fcf4da-5cd8-4ced-8add-5efde62f337c)
-
-결제하기버튼을 눌렀을 때의 화면입니다.
-![image](https://github.com/choimyeongsu/outsystems/assets/99162434/dddfd150-1aef-4a84-9d81-312907ca3164)
-
-카드결제를 누른화면입니다.
-![image](https://github.com/choimyeongsu/outsystems/assets/99162434/4dea1330-e1a8-4bf3-8976-d5c592a0bb98)
-
-결제완료가 되고 초기화면으로 돌아갑니다. 
-![image](https://github.com/choimyeongsu/outsystems/assets/99162434/e5bb4183-5809-42e0-b358-455e16c6cff1)
-
-주문목록을 눌러보겠습니다.
-방금 주문한 메뉴들이 잘 보여지는 것을 볼 수 있습니다. 
-![image](https://github.com/choimyeongsu/outsystems/assets/99162434/c7ba99ce-62e7-405e-ab55-60a85f6b1975)
-
-방금 주문한 테이블번호는 336번이고
-메뉴가 들어온 시간을보면 방금 주문한 데이터가 맞습니다. 
-![image](https://github.com/choimyeongsu/outsystems/assets/99162434/42e72ef0-067c-4129-a029-acaf6b392422)
-
-테이블번호를 클릭하면 테이블에서 주문한
-메뉴들을 볼 수 있습니다. 승인을 누르면 메뉴가 사라집니다.
-![image](https://github.com/choimyeongsu/outsystems/assets/99162434/5034dee7-ad72-4fbf-aa6f-d8aae829c05c)
-
-매출버튼을 클릭하여 그날의 매출을 볼 수 있습니다.
-![image](https://github.com/choimyeongsu/outsystems/assets/99162434/ed0c8ab1-685b-4983-a79d-fbeea78dabb7)
-
-
-메뉴관리를 눌러 메뉴를 추가 삭제 품절 처리 할 수 있습니다.
-![image](https://github.com/choimyeongsu/outsystems/assets/99162434/06ea549d-0d8c-4ac1-82bc-8ea56ea8379a)
-
-추가화면입니다.
-![image](https://github.com/choimyeongsu/outsystems/assets/99162434/ce670497-647f-4088-99a7-90b3a46c00bb)
-
-삭제화면입니다.
-![image](https://github.com/choimyeongsu/outsystems/assets/99162434/53ac2803-59ee-4d7c-93c3-9c8af9aedb5d)
-
-품절화면입니다.
-![image](https://github.com/choimyeongsu/outsystems/assets/99162434/6a0f53a8-7730-4f0e-ad06-57a8d0811361)
-
-키오스크 주문영상입니다.
 https://github.com/choimyeongsu/outsystems/assets/99162434/5dfe5d9f-71da-4116-bdf6-d9960d744bfb
+
+
+사장님 앱 실행영상
+----
+두개의 키오스크에서 주문을 했을때입니다. 
+https://github.com/choimyeongsu/outsystems/assets/99162434/16e2a2a3-68e3-4729-9b2c-9aa083ae3864
+
+
 
 
 
