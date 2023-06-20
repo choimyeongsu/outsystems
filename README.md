@@ -62,3 +62,4 @@ https://github.com/choimyeongsu/outsystems/assets/99162434/5dfe5d9f-71da-4116-bd
 ----
 두개의 키오스크에서 주문을 했을때입니다. 
 https://github.com/choimyeongsu/outsystems/assets/99162434/16e2a2a3-68e3-4729-9b2c-9aa083ae3864
+
